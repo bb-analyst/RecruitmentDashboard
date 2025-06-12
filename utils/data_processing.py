@@ -38,7 +38,7 @@ def filter_player_data(df,filters,stat_map):
     #summarise/separate
     index_cols = ['compName']
     if filters["season_separate"]:
-        index_cols.append('compName')
+        index_cols.append('season')
     if filters["position_separate"]:
         index_cols.append('playerPosition')
     if filters["team_separate"]:
