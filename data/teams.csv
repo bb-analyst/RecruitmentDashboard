@@ -1,0 +1,149 @@
+teamId,compId,compName,teamName,teamNickName,teamAbbr,teamHexColour,teamHexColour2
+500001,111,nrl,Sydney Roosters,Roosters,SYD,062f67,ff1200
+500002,111,nrl,Manly-Warringah Sea Eagles,Sea Eagles,MAN,610a35,b4b4be
+500003,111,nrl,Newcastle Knights,Knights,NEW,ee3424,0c499c
+500004,111,nrl,Gold Coast Titans,Titans,GOL,ffa71f,2f8fbf
+500005,111,nrl,South Sydney Rabbitohs,Rabbitohs,SOU,01914c,ed1b26
+500010,111,nrl,Canterbury-Bankstown Bulldogs,Bulldogs,BUL,0055a5,b4b4be
+500011,111,nrl,Brisbane Broncos,Broncos,BRI,650038,ffce35
+500012,111,nrl,North Queensland Cowboys,Cowboys,NQL,fcde05,102247
+500013,111,nrl,Canberra Raiders,Raiders,CAN,00ab57,022c9a
+500014,111,nrl,Penrith Panthers,Panthers,PEN,00687d,232020
+500021,111,nrl,Melbourne Storm,Storm,MEL,500180,feba35
+500022,111,nrl,St. George Illawarra Dragons,Dragons,STG,fe000b,b4b4be
+500023,111,nrl,Wests Tigers,Wests Tigers,WST,ff7f00,000000
+500028,111,nrl,Cronulla-Sutherland Sharks,Sharks,CRO,4b9ad4,000000
+500031,111,nrl,Parramatta Eels,Eels,PAR,ffd900,0058a4
+500032,111,nrl,New Zealand Warriors,Warriors,WAR,cccccc,000000
+500055,114,qcup,Mackay Cutters,Cutters,CUT,741212,0085d0
+500056,114,qcup,Brisbane Tigers,Tigers,TIG,ff7f00,000000
+500057,114,qcup,Northern Pride,Pride,PRI,00b2aa,f26122
+500058,114,qcup,Sunshine Coast Falcons,Falcons,FAL,fdc62d,000000
+500061,114,qcup,Burleigh Bears,Bears,BEA,b9452e,000000
+500062,114,qcup,Central Queensland Capras,Capras,CAP,71113d,172e56
+500070,114,qcup,Ipswich Jets,Jets,JET,2ca569,b4b4be
+500071,114,qcup,Norths Devils,Devils,DEV,35ace4,f5c116
+500072,114,qcup,Redcliffe Dolphins,Dolphins,DOL,ea1d24,b4b4be
+500073,114,qcup,Papua New Guinea Hunters,Hunters,HUN,fddc05,ed1b24
+500074,114,qcup,Wynnum Manly Seagulls,Seagulls,WMS,6bbe3c,f93738
+500075,114,qcup,Tweed Seagulls,Seagulls,THS,000000,b4b4be
+500082,159,jerseyflegg,South Sydney Rabbitohs U21,Rabbitohs,SOU,01914c,ed1b26
+500083,159,jerseyflegg,Sydney Roosters U21,Roosters,SYD,062f67,ff1200
+500085,159,jerseyflegg,Canterbury-Bankstown Bulldogs U21,Bulldogs,BUL,0055a5,b4b4be
+500099,159,jerseyflegg,Penrith Panthers U21,Panthers,PEN,00687d,232020
+500100,159,jerseyflegg,Newcastle Knights U21,Knights,NEW,ee3424,0c499c
+500101,113,nswcup,Penrith Panthers NSW Cup,Panthers,PEN,00687d,232020
+500102,113,nswcup,Newcastle Knights NSW Cup,Knights,NEW,ee3424,0c499c
+500104,159,jerseyflegg,Canberra Raiders U21,Raiders,CAN,00ab57,022c9a
+500105,159,jerseyflegg,Manly-Warringah Sea Eagles U21,Sea Eagles,MAN,610a35,b4b4be
+500107,159,jerseyflegg,St. George Illawarra Dragons U21,Dragons,STG,fe000b,b4b4be
+500108,159,jerseyflegg,Wests Tigers U21,Wests Tigers,WST,ff7f00,000000
+500115,159,jerseyflegg,Parramatta Eels U21,Eels,PAR,ffd900,0058a4
+500116,159,jerseyflegg,New Zealand Warriors U21,Warriors,WAR,cccccc,000000
+500122,159,jerseyflegg,Cronulla-Sutherland Sharks U21,Sharks,CRO,4b9ad4,000000
+500124,113,nswcup,St. George Illawarra Dragons NSW Cup,Dragons,STG,fe000b,b4b4be
+500125,113,nswcup,Western Suburbs Magpies,Wests Magpies,MAG,b4b4be,000000
+500131,113,nswcup,New Zealand Warriors NSW Cup,Warriors,WAR,cccccc,000000
+500136,113,nswcup,Manly-Warringah Sea Eagles NSW Cup,Sea Eagles,MAN,610a35,b4b4be
+500138,113,nswcup,Canterbury-Bankstown Bulldogs NSW Cup,Bulldogs,BUL,0055a5,b4b4be
+500141,113,nswcup,North Sydney Bears,Bears,NSD,ef342b,000000
+500142,113,nswcup,Newtown Jets,Jets,JET,2654c3,b4b4be
+500146,116,origin,New South Wales,Blues,NSW,69aee5,092e75
+500147,116,origin,Queensland,Maroons,QLD,8a1a40,c0baba
+500151,114,qcup,Souths Logan Magpies,Magpies,MAG,,b4b4be
+500161,121,superleague,London Broncos,Broncos,LON,,
+500162,121,superleague,Catalans,Dragons,CAT,ff1200,fcd006
+500166,121,superleague,Salford,Red Devils,SAL,ed1b26,000000
+500167,121,superleague,Hull KR,The Robins,HKR,ff1200,995dde
+500168,121,superleague,Hull,Hull FC,HFC,000000,caaf7f
+500169,121,superleague,Wigan,Warriors,WIG,cc0000,b4b4be
+500170,121,superleague,Leeds,Rhinos,LEE,0c499c,fbc622
+500171,121,superleague,Wakefield,Trinity,WAK,062f67,b4b4be
+500172,121,superleague,Castleford,Tigers,CAS,f2a51f,000000
+500173,121,superleague,Huddersfield,Giants,HUD,741212,feba35
+500175,121,superleague,Warrington,Wolves,WRR,fdc62d,1d3eb2
+500176,121,superleague,St Helens,Saints,STH,fe000b,b4b4be
+500208,114,qcup,Townsville Blackhawks,Blackhawks,BLA,,
+500218,144,sgball,Sydney Roosters U19,Roosters,SYD,062f67,ff1200
+500219,144,sgball,Parramatta Eels U19,Eels,PAR,ffd900,0058a4
+500220,144,sgball,St. George Dragons U19,Dragons,STG,fe000b,b4b4be
+500221,144,sgball,Western Suburbs Magpies U19,Magpies,MAG,b4b4be,000000
+500222,144,sgball,Manly-Warringah Sea Eagles U19,Sea Eagles,MAN,610a35,b4b4be
+500225,144,sgball,North Sydney Bears U19,Bears,NSD,ef342b,000000
+500226,144,sgball,Canterbury-Bankstown Bulldogs U19,Bulldogs,BUL,0055a5,b4b4be
+500227,144,sgball,Newcastle Knights U19,Knights,NEW,ee3424,0c499c
+500229,144,sgball,Balmain Tigers U19,Tigers,BAL,,
+500230,144,sgball,Penrith Panthers U19,Panthers,PEN,00687d,232020
+500231,144,sgball,Canberra Raiders U19,Raiders,CAN,00ab57,022c9a
+500232,144,sgball,Illawarra Steelers U19,Steelers,ILL,,
+500233,144,sgball,South Sydney Rabbitohs U19,Rabbitohs,SOU,01914c,ed1b26
+500234,144,sgball,Cronulla-Sutherland Sharks U19,Sharks,CRO,4b9ad4,000000
+500239,143,haroldmatthews,Sydney Roosters U17,Roosters,SYD,062f67,ff1200
+500240,143,haroldmatthews,Parramatta Eels U17,Eels,PAR,ffd900,0058a4
+500241,143,haroldmatthews,Manly-Warringah Sea Eagles U17,Sea Eagles,MAN,610a35,b4b4be
+500243,143,haroldmatthews,St. George Dragons U17,Dragons,STG,fe000b,b4b4be
+500244,143,haroldmatthews,Western Suburbs Magpies U17,Magpies,MAG,b4b4be,000000
+500246,143,haroldmatthews,North Sydney Bears U17,Bears,NSD,ef342b,000000
+500247,143,haroldmatthews,Canterbury-Bankstown Bulldogs U17,Bulldogs,BUL,0055a5,b4b4be
+500248,143,haroldmatthews,Newcastle Knights U17,Knights,NEW,ee3424,0c499c
+500250,143,haroldmatthews,Balmain Tigers U17,Tigers,BAL,,
+500251,143,haroldmatthews,Penrith Panthers U17,Panthers,PEN,00687d,232020
+500252,143,haroldmatthews,Canberra Raiders U17,Raiders,CAN,00ab57,022c9a
+500253,143,haroldmatthews,Illawarra Steelers U17,Steelers,ILL,,
+500254,143,haroldmatthews,South Sydney Rabbitohs U17,Rabbitohs,SOU,01914c,ed1b26
+500255,143,haroldmatthews,Cronulla-Sutherland Sharks U17,Sharks,CRO,4b9ad4,000000
+500278,155,malmeninga,Townsville Blackhawks U19,Blackhawks,BLA,,
+500279,155,malmeninga,Northern Pride U19,Pride,PRI,00b2aa,f26122
+500281,155,malmeninga,Sunshine Coast Falcons U19,Falcons,FAL,fdc62d,000000
+500282,155,malmeninga,Norths Devils U19,Devils,DEV,35ace4,f5c116
+500283,155,malmeninga,Redcliffe Dolphins U19,Dolphins,DOL,ea1d24,b4b4be
+500284,154,cyrilconnell,Norths Devils U17,Devils,DEV,35ace4,f5c116
+500285,154,cyrilconnell,Redcliffe Dolphins U17,Dolphins,DOL,ea1d24,b4b4be
+500287,154,cyrilconnell,Brisbane Tigers U17,Tigers,TIG,ff7f00,000000
+500288,154,cyrilconnell,Wynnum Manly Seagulls U17,Seagulls,WMS,6bbe3c,f93738
+500290,155,malmeninga,Mackay Cutters U19,Cutters,CUT,741212,0085d0
+500291,155,malmeninga,Central Queensland Capras U19,Capras,CAP,71113d,172e56
+500293,155,malmeninga,Souths Logan Magpies U19,Magpies,MAG,,b4b4be
+500295,155,malmeninga,Brisbane Tigers U19,Tigers,TIG,ff7f00,000000
+500296,155,malmeninga,Wynnum Manly Seagulls U19,Seagulls,WMS,6bbe3c,f93738
+500297,144,sgball,Melbourne Storm U19,Storm,MEL,500180,feba35
+500301,154,cyrilconnell,Sunshine Coast Falcons U17,Falcons,FAL,fdc62d,000000
+500302,154,cyrilconnell,Townsville Blackhawks U17,Blackhawks,BLA,,
+500303,154,cyrilconnell,Northern Pride U17,Pride,PRI,00b2aa,f26122
+500304,154,cyrilconnell,Mackay Cutters U17,Cutters,CUT,741212,0085d0
+500305,154,cyrilconnell,Central Queensland Capras U17,Capras,CAP,71113d,172e56
+500307,154,cyrilconnell,Souths Logan Magpies U17,Magpies,MAG,,b4b4be
+500343,113,nswcup,Blacktown Workers Sea Eagles,Sea Eagles,BLA,,
+500345,155,malmeninga,Burleigh Bears U19,Bears,BEA,b9452e,000000
+500346,155,malmeninga,Ipswich Jets U19,Jets,JET,2ca569,b4b4be
+500347,155,malmeninga,Western Clydesdales U19,Clydesdales,CLY,,
+500348,155,malmeninga,Tweed Seagulls U19,Seagulls,THS,000000,b4b4be
+500362,159,jerseyflegg,Melbourne Storm U21,Storm,MEL,500180,feba35
+500366,143,haroldmatthews,Central Coast Roosters U17,Roosters,CEN,,
+500469,161,nrlw,Sydney Roosters Women,Roosters,SYDW,062f67,ff1200
+500470,161,nrlw,Brisbane Broncos Women,Broncos,BRIW,650038,ffce35
+500471,161,nrlw,St. George Illawarra Dragons Women,Dragons,STGW,fe000b,b4b4be
+500486,113,nswcup,South Sydney Rabbitohs NSW Cup,Rabbitohs,SOU,01914c,ed1b26
+500560,113,nswcup,Parramatta Eels NSW Cup,Eels,PAR,ffd900,0058a4
+500589,144,sgball,New Zealand Warriors U19,Warriors,WAR,cccccc,000000
+500613,154,cyrilconnell,Wide Bay Bulls U17,Bulls,WBB,,
+500614,155,malmeninga,Wide Bay Bulls U19,Bulls,WBB,,
+500616,154,cyrilconnell,Western Clydesdales U17,Clydesdales,CLY,,
+500617,154,cyrilconnell,Burleigh Bears U17,Bears,BEA,b9452e,000000
+500618,154,cyrilconnell,Tweed Seagulls U17,Seagulls,THS,000000,b4b4be
+500619,154,cyrilconnell,Ipswich Jets U17,Jets,JET,2ca569,b4b4be
+500632,121,superleague,Leigh,Leopards,LEI,ff1200,b4b4be
+500633,113,nswcup,Canberra Raiders NSW Cup,Raiders,CAN,00ab57,022c9a
+500690,161,nrlw,Gold Coast Titans Women,Titans,GOLW,ffa71f,2f8fbf
+500691,161,nrlw,Newcastle Knights Women,Knights,NEWW,ee3424,0c499c
+500692,161,nrlw,Parramatta Eels Women,Eels,PARW,ffd900,0058a4
+500723,111,nrl,Dolphins,Dolphins,DOL,,
+500782,113,nswcup,Sydney Roosters NSW Cup,Roosters,SYD,062f67,ff1200
+500785,161,nrlw,Canberra Raiders Women,Raiders,CANW,00ab57,022c9a
+500786,161,nrlw,Cronulla-Sutherland Sharks Women,Sharks,CROW,4b9ad4,000000
+500787,161,nrlw,North Queensland Cowboys Women,Cowboys,NQLW,fcde05,102247
+500788,161,nrlw,Wests Tigers Women,Tigers,WSTW,ff7f00,000000
+500789,114,qcup,Western Clydesdales,Clydesdales,CLY,,
+500885,143,haroldmatthews,New Zealand Warriors U17,Warriors,WAR,cccccc,000000
+500886,143,haroldmatthews,Melbourne Storm U17,Storm,MEL,500180,feba35
+500894,159,jerseyflegg,Kaiviti Silktails U21,Silktails,SIL,,
